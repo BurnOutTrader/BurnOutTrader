@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BurnOutTrader
-- 👀 I’m interested in trading algorithmic trading
+- 👀 I’m interested in algorithmic trading and day trading
 - 🌱 I’m currently learning C# and ninjascript
 - 💞️ I’m looking to collaborate on ...silence
 - 📫 How to reach me BurnOutTrader@outlook.com
