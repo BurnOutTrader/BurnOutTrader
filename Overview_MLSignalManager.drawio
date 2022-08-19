@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T03:15:36.200Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="TbH10QfvrjqZVc8pES-u" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T03:49:56.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36 Edg/104.0.1293.54" etag="y_MeLCyj5oVbYFLGgBXW" version="20.2.4" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1673" dy="5887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
@@ -26,16 +26,16 @@
           </mxCell>
         </UserObject>
         <mxCell id="25" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b style=&quot;&quot;&gt;MLSignalManager Outline&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Library for methods and classes which&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;will be used by&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Trading Platform and ML.Net apps to:&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;1. communicate variables between apps&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;2. Label Data&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;3. Store Data&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;4. Allow for mass creation of accurate labelled data&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#b85450;shadow=1;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="1800" y="-3575" width="561" height="140" as="geometry" />
+          <mxGeometry x="2420" y="-3545" width="561" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Nqc6m_4wT6IORtl7EpfO-118" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;strong style=&quot;&quot;&gt;Trading Platform&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;1. Output - Exports Data to ML analyse&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;2. Input - Receives Model analysis result&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;as&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; Positive or Negative&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;4. internal Monitors result for Positive&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;5. Starts Synthetic Result monitor for negative&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;3. Output - Sends Trade Result&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
-          <mxGeometry x="1680" y="-3120" width="300" height="140" as="geometry" />
+          <mxGeometry x="2480" y="-2820" width="300" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Nqc6m_4wT6IORtl7EpfO-119" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;strong style=&quot;&quot;&gt;SQL Database&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;1. Stores details of approved models&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;2. Stores details of each individual signal&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
-          <mxGeometry x="1995" y="-3120" width="295" height="300" as="geometry" />
+          <mxGeometry x="2390" y="-3370" width="295" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Nqc6m_4wT6IORtl7EpfO-121" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;strong style=&quot;&quot;&gt;Synthetic Result&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Template&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
-          <mxGeometry x="1835" y="-2970" width="145" height="120" as="geometry" />
+          <mxGeometry x="1940" y="-3308" width="145" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Nqc6m_4wT6IORtl7EpfO-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-123" target="Nqc6m_4wT6IORtl7EpfO-137">
           <mxGeometry relative="1" as="geometry" />
@@ -64,7 +64,7 @@
           <mxGeometry x="635" y="-3435" width="95" height="105" as="geometry" />
         </mxCell>
         <mxCell id="Nqc6m_4wT6IORtl7EpfO-150" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;strong style=&quot;&quot;&gt;copy&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Template&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
-          <mxGeometry x="2130" y="-3300" width="160" height="160" as="geometry" />
+          <mxGeometry x="2500" y="-3010" width="160" height="160" as="geometry" />
         </mxCell>
         <UserObject label="" tags="Classes input User" id="Nqc6m_4wT6IORtl7EpfO-233">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-152" target="21">
@@ -76,15 +76,18 @@
             <mxGeometry x="803.12" y="-3410" width="163.75" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;ML.Sample : Model Class&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;&lt;b&gt;Inherited FROM MODEL&lt;/b&gt;&lt;/i&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;&lt;b&gt;GET from Model.ID&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;int ML.Model.ID&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;string Name&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;using NewId&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;string Symbol&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;int Period&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;enum Period Type&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;enum Prediction&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;SignalFound,&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;NoSignalFound,&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;int UniqueID;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;public Result.TradeResult Result;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" tags="Classes Inheritance" id="Nqc6m_4wT6IORtl7EpfO-153">
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-359" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-153" target="Nqc6m_4wT6IORtl7EpfO-345">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;ML.Sample : Model Class&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;u&gt;Inherited FROM MODEL&lt;/u&gt;&lt;/b&gt;&lt;/i&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;&lt;b&gt;GET from Model.ID&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;int ML.Model.ID&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;string Name&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;using NewId&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;string Symbol&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;int Period&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;i&gt;enum Period Type&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;u&gt;New Variables by Sample Class&lt;/u&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;bool SignalFound&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;int UniqueID;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;public Result.TradeResult Result;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" tags="Classes Inheritance" id="Nqc6m_4wT6IORtl7EpfO-153">
           <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#d6b656;shadow=1;fillColor=#fff2cc;" vertex="1" parent="1">
-            <mxGeometry x="1101.25" y="-2620" width="262.5" height="260" as="geometry" />
+            <mxGeometry x="1519.06" y="-3420" width="261.88" height="270" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Nqc6m_4wT6IORtl7EpfO-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-173" target="Nqc6m_4wT6IORtl7EpfO-249">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="int &lt;br&gt;ID" tags="Variables" id="Nqc6m_4wT6IORtl7EpfO-173">
+        <UserObject label="int &lt;br&gt;Model.ID" tags="Variables" id="Nqc6m_4wT6IORtl7EpfO-173">
           <mxCell style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
             <mxGeometry x="863.12" y="-3030" width="100" height="60" as="geometry" />
           </mxCell>
@@ -201,11 +204,11 @@
           </mxCell>
         </UserObject>
         <UserObject label="" tags="Objects" id="Nqc6m_4wT6IORtl7EpfO-252">
-          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-249" target="Nqc6m_4wT6IORtl7EpfO-239">
+          <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;fillColor=#cdeb8b;strokeColor=#33FF33;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-249" target="Nqc6m_4wT6IORtl7EpfO-239">
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
-                <mxPoint x="1030" y="-2910" />
-                <mxPoint x="1030" y="-3420" />
+                <mxPoint x="1050" y="-2910" />
+                <mxPoint x="1050" y="-3420" />
                 <mxPoint x="1235" y="-3420" />
               </Array>
             </mxGeometry>
@@ -235,13 +238,18 @@
             <mxGeometry x="1115" y="-3120" width="240" height="160" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Nqc6m_4wT6IORtl7EpfO-263" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Unlabelled Sample&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="-3560" width="120" height="110" as="geometry" />
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-347" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-263" target="Nqc6m_4wT6IORtl7EpfO-153">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Unlabelled Sample&lt;br&gt;found&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" tags="EndBranch" id="Nqc6m_4wT6IORtl7EpfO-263">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+            <mxGeometry x="1580.62" y="-3545" width="138.75" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="Nqc6m_4wT6IORtl7EpfO-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-266" target="Nqc6m_4wT6IORtl7EpfO-256">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1090" y="-2900" />
+              <mxPoint x="1090" y="-2883" />
               <mxPoint x="1090" y="-3190" />
             </Array>
           </mxGeometry>
@@ -249,9 +257,9 @@
         <mxCell id="Nqc6m_4wT6IORtl7EpfO-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;fontSize=16;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-266" target="Nqc6m_4wT6IORtl7EpfO-284">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;WatchingSampleLocations() Method&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;For Each Model in Models&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Check for unlabelled sample object&lt;/p&gt;" tags="Methods" id="Nqc6m_4wT6IORtl7EpfO-266">
+        <UserObject label="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;WatchingSampleLocations() Method&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;For Each Model in Models&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Check for unlabelled sample object in&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Model.UnlabelledFolder&lt;/p&gt;" tags="Methods" id="Nqc6m_4wT6IORtl7EpfO-266">
           <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#0e8088;shadow=1;fillColor=#b0e3e6;" vertex="1" parent="1">
-            <mxGeometry x="1125" y="-2935" width="215" height="185" as="geometry" />
+            <mxGeometry x="1125" y="-2935" width="215" height="105" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Nqc6m_4wT6IORtl7EpfO-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-267" target="Nqc6m_4wT6IORtl7EpfO-249">
@@ -266,22 +274,14 @@
             <mxGeometry x="838.12" y="-2746.25" width="150" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Nqc6m_4wT6IORtl7EpfO-338" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-284" target="Nqc6m_4wT6IORtl7EpfO-153">
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-284" target="Nqc6m_4wT6IORtl7EpfO-351">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;FoundNewSample(ML.Model.ID, Location) Method&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Create ML.Sample Object from Class&lt;/p&gt;" tags="Methods" id="Nqc6m_4wT6IORtl7EpfO-284">
           <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#0e8088;shadow=1;fillColor=#b0e3e6;" vertex="1" parent="1">
-            <mxGeometry x="1086.25" y="-2710" width="292.5" height="60" as="geometry" />
+            <mxGeometry x="1086.25" y="-2810" width="292.5" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Nqc6m_4wT6IORtl7EpfO-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-256" target="Nqc6m_4wT6IORtl7EpfO-266">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1370" y="-3190" />
-              <mxPoint x="1370" y="-2843" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <UserObject label="" tags="Methods" id="Nqc6m_4wT6IORtl7EpfO-319">
           <mxCell style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-309" target="Nqc6m_4wT6IORtl7EpfO-267">
             <mxGeometry relative="1" as="geometry" />
@@ -292,16 +292,101 @@
             <mxGeometry x="573.12" y="-2750" width="156.88" height="67.5" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;NewSample(ML.Model.ID, Location) Method&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" tags="Methods" id="Nqc6m_4wT6IORtl7EpfO-337">
+        <UserObject label="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;AnalyseDiscoveredSample(ML.Model.ID,ML.Sample.ID, Location) Method&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Runs Analysis of new Sample Object using the specified model&lt;/p&gt;" tags="Methods" id="Nqc6m_4wT6IORtl7EpfO-337">
           <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#0e8088;shadow=1;fillColor=#b0e3e6;" vertex="1" parent="1">
-            <mxGeometry x="1450" y="-2682.5" width="292.5" height="60" as="geometry" />
+            <mxGeometry x="1455" y="-2770" width="430" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-375" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBorderColor=none;fontSize=16;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-339" target="Nqc6m_4wT6IORtl7EpfO-337">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;&quot;ExampleSample&quot; Object: ML.Sample : Model&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px;&quot;&gt;&lt;b&gt;&lt;i&gt;New Unique Sample object&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;" tags="Classes Inheritance" id="Nqc6m_4wT6IORtl7EpfO-339">
           <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#36393d;shadow=1;fillColor=#cdeb8b;" vertex="1" parent="1">
-            <mxGeometry x="1440" y="-2580" width="300" height="80" as="geometry" />
+            <mxGeometry x="1520" y="-2870" width="300" height="80" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-373" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-341" target="Nqc6m_4wT6IORtl7EpfO-339">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="bool&lt;br&gt;SignalFound = false" tags="Variables" id="Nqc6m_4wT6IORtl7EpfO-341">
+          <mxCell style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+            <mxGeometry x="1610" y="-2981" width="120" height="71" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-342" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-256" target="Nqc6m_4wT6IORtl7EpfO-266">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1380" y="-3190" />
+              <mxPoint x="1380" y="-2883" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-343" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;labelBorderColor=none;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-267" target="Nqc6m_4wT6IORtl7EpfO-284">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1036.25" y="-2730" as="sourcePoint" />
+            <mxPoint x="1080" y="-2780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="-2716" />
+              <mxPoint x="1040" y="-2780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-344" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;labelBorderColor=none;fontSize=16;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-173" target="Nqc6m_4wT6IORtl7EpfO-284">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="989.99" y="-3000" as="sourcePoint" />
+            <mxPoint x="1060" y="-3000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="-3000" />
+              <mxPoint x="1000" y="-2880" />
+              <mxPoint x="1000" y="-2780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-367" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;labelBorderColor=none;fontSize=16;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-345" target="Nqc6m_4wT6IORtl7EpfO-356">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-368" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;fontSize=16;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-345" target="Nqc6m_4wT6IORtl7EpfO-341">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1649.9999999999995" y="-2990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-369" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-345" target="Nqc6m_4wT6IORtl7EpfO-358">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;b&gt;ML.NewModel() Method&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Create new ID using NewId package&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Set Signal Found and TradeResult to default&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" tags="Methods" id="Nqc6m_4wT6IORtl7EpfO-345">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#0e8088;shadow=1;fillColor=#b0e3e6;" vertex="1" parent="1">
+            <mxGeometry x="1520" y="-3120" width="260" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-353" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBorderColor=none;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#33FF33;strokeWidth=2;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-351" target="Nqc6m_4wT6IORtl7EpfO-263">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1449.9999999999995" y="-3430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;b&gt;END&amp;nbsp;&lt;/b&gt;" tags="EndBranch" id="Nqc6m_4wT6IORtl7EpfO-351">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+            <mxGeometry x="1182.5" y="-2720" width="100" height="100" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-371" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;fontSize=16;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-356" target="Nqc6m_4wT6IORtl7EpfO-339">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="int &lt;br&gt;Signal.ID" tags="Variables" id="Nqc6m_4wT6IORtl7EpfO-356">
+          <mxCell style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+            <mxGeometry x="1470" y="-2980" width="120" height="70" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-374" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBorderColor=none;fontSize=16;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="Nqc6m_4wT6IORtl7EpfO-358" target="Nqc6m_4wT6IORtl7EpfO-339">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Result = TradeResult.None" tags="Enums" id="Nqc6m_4wT6IORtl7EpfO-358">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#D4E1F5;" vertex="1" parent="1">
+            <mxGeometry x="1740" y="-2975.5" width="160" height="65.5" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Nqc6m_4wT6IORtl7EpfO-376" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center;&quot;&gt;&lt;strong style=&quot;&quot;&gt;Platform Result&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Template&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+          <mxGeometry x="2150" y="-3308" width="145" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
