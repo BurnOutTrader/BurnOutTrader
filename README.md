@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BurnOutTrader
 - 👀 I’m interested in Quantative trading and day trading
 - 🌱 I’m currently learning C# / .NET
-- 💞️ I’m looking to collaborate on ...Trading Systems
+- 💞️ I’m looking to collaborate on ...Trading Systems for QuantConnect's Lean engine
 - 📫 How to reach me KevinJamesMonaghan@outlook.com 
 
 <!---
